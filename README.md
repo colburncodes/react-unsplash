@@ -5,4 +5,4 @@ https://unsplash.com/documentation#search-photos
 * React
 
 # Future Technology
-Plan to add React Query library to handle fetching data and caching data. 
+Plan to add React Query library to handle fetching and caching data. 
