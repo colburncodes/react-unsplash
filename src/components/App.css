@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+}
+
+.App__content {
+  max-width: 860px;
+  margin: 90px auto;
+}
+
+.App__title {
+  position: absolute;
+  top: 19px;
+  text-align: center;
+  width: 50%;
+}
+
+.App__search {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.App__cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 48px;
+}
